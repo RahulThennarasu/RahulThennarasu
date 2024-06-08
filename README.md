@@ -2,11 +2,7 @@
 <h3 align="center">A passionate AI and ML student from San Jose, California</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
 
-- 🔭 I’m currently working on **RecogAI**
-
-- 🌱 I’m currently learning **C++**
-
-- 📫 How to reach me **rahulthennarasu07@gmail.com**
+I am a high school Junior deeply committed to the realms of artificial intelligence and machine learning. With proficiency in Python, Java, C++, and adeptness in HTML, CSS, Flask, Django, and OpenCV, I lead CodeVentures—an educational initiative aimed at imparting programming fundamentals. Notable achievements include clinching first place at PioneerHacks V and attaining the Best Solo Hack distinction at MateoHacks. My contributions to projects like DeafLink and FeatureAI exemplify my prowess in AI. Additionally, I founded APINexus, a distinguished API marketplace. I invite you to connect with me on LinkedIn or explore my projects on GitHub.
 
 <p align="left">
 </p>
