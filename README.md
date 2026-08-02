@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Rahul Thennarasu</h1>
-Hi! I’m a student at Cal Poly SLO studying computer science. I enjoy spending my time contributing to open-source projects. I’m interested in accelerated machine learning, infrastructure software engineering, and computer architecture. 
+<h1 align="center">hi, i'm rahul thennarasu</h1>
+i’m a student at cal poly slo studying computer science. i enjoy spending my building software thats intuitive, clean, and helpful. I’m interested in inference, ai infrastructure, and chips. 
 
 
 
